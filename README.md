@@ -7,3 +7,5 @@ java.lang.reflect.InvocationTargetException
 아직 해결 못함..
 1) window ->  Preferences -> java -> Installed JREs -> jdk를 변경했으나 실패<br>
 cf) https://jiurinie.tistory.com/132
+
+2) spring initializer로 만들고 임포트는 됨
