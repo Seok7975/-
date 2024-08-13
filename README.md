@@ -5,4 +5,5 @@ ClassNotFoundException: org.apache.commons.io.build.AbstractStreamBuilder cannot
 java.lang.reflect.InvocationTargetException
 
 아직 해결 못함..
-1) window ->  Preferences -> java -> Installed JREs -> jdk를 변경했으나 실패
+1) window ->  Preferences -> java -> Installed JREs -> jdk를 변경했으나 실패<br>
+cf) https://jiurinie.tistory.com/132
